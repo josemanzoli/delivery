@@ -5,6 +5,10 @@
 * delivery
 ========
 REST API that receives a simple Map with directions between points and gives you the shortest way calculating the price based on autonomy and price of gas
+
+* Why Neo4j, SpringData and Jetty?
+  Because the easy horizontal scalability of these frameworks and Neo4j fits in the routing problem like a charm! 
+
 * 1.0
 
 ### How do I get set up? ###

@@ -39,11 +39,11 @@ REST API that receives a simple Map with directions between points and gives you
 ### How can I use the Rest API? ###
 
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
-![saveMap](username.github.com/repository/img/saveMap.jpg)
+![saveMap](username.github.com/repository/img/saveMap.png)
 
-![FindByState](username.github.com/repository/img/findByState.jpg)
+![FindByState](username.github.com/repository/img/findByState.png)
 
-![getShortestPath](username.github.com/repository/img/getShortestPath.jpg)
+![getShortestPath](username.github.com/repository/img/getShortestPath.png)
 
 *If you want to clean up the database use this
-![removeCities](username.github.com/repository/img/removeCities.jpg)
+![removeCities](username.github.com/repository/img/removeCities.png)

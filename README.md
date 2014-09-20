@@ -6,28 +6,27 @@
 ========
 REST API that receives a simple Map with directions between points and gives you the shortest way calculating the price based on autonomy and price of gas
 * 1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up - 
   You will need a Java7, Maven 3, Eclipse
-* Dependencies
+* Dependencies - 
   It is all inside the pom.xml, feel free to look at!
-* Database configuration
+* Database configuration - 
   It is build with a embbeded database. Next step here is to put a RestGraphDatabase Server in some cloud around the world
-* How to run tests
+* How to run tests - 
   mvn clean install
-* Deployment instructions
+* Deployment instructions - 
   mvn jetty:run
 
 ### Contribution guidelines ###
 
-* Writing tests
+* Writing tests - 
   Feel free to contribute
-* Code review
+* Code review - 
   Feel free to contribute
-* Other guidelines
+* Other guidelines - 
   Feel free to help with guidelines
 
 ### Who do I talk to? ###

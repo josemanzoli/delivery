@@ -39,7 +39,7 @@ REST API that receives a simple Map with directions between points and gives you
 ### How can I use the Rest API? ###
 
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
-![saveMap](zehdamoto.github.com/delivery/saveMap.png)
+![saveMap](https://github.com/zehdamoto/delivery/blob/master/saveMap.png)
 
 ![FindByState](username.github.com/repository/img/findByState.png)
 

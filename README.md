@@ -35,3 +35,15 @@ REST API that receives a simple Map with directions between points and gives you
   zehdamoto
 * Other community or team contact
   Well, it`s just me for now!
+
+### How can I use the Rest API? ###
+
+* Using an app plugin for Chrome called PostMan, follow the screenshots!
+![saveMap](username.github.com/repository/img/saveMap.jpg)
+
+![FindByState](username.github.com/repository/img/findByState.jpg)
+
+![getShortestPath](username.github.com/repository/img/getShortestPath.jpg)
+
+*If you want to clean up the database use this
+![removeCities](username.github.com/repository/img/removeCities.jpg)

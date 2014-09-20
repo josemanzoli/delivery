@@ -39,10 +39,14 @@ REST API that receives a simple Map with directions between points and gives you
 ### How can I use the Rest API? ###
 
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
+
+* First, save the Map
 ![saveMap](https://github.com/zehdamoto/delivery/blob/master/saveMap.png)
 
+*Then see if the Map is saved
 ![FindByState](https://github.com/zehdamoto/delivery/blob/master/findByState.png)
 
+* and the last thing and most important, get your shortest path
 ![getShortestPath](https://github.com/zehdamoto/delivery/blob/master/getShortestPath.png)
 
 *If you want to clean up the database use this

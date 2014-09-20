@@ -41,9 +41,9 @@ REST API that receives a simple Map with directions between points and gives you
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
 ![saveMap](https://github.com/zehdamoto/delivery/blob/master/saveMap.png)
 
-![FindByState](username.github.com/repository/img/findByState.png)
+![FindByState](https://github.com/zehdamoto/delivery/blob/master/findByState.png)
 
-![getShortestPath](username.github.com/repository/img/getShortestPath.png)
+![getShortestPath](https://github.com/zehdamoto/delivery/blob/master/getShortestPath.png)
 
 *If you want to clean up the database use this
-![removeCities](username.github.com/repository/img/removeCities.png)
+![removeCities](https://github.com/zehdamoto/delivery/blob/master/removeCities.png)

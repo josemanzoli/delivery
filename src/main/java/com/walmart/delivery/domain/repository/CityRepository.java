@@ -11,7 +11,6 @@ import com.walmart.delivery.domain.City;
  * Repository for City Entity
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Repository

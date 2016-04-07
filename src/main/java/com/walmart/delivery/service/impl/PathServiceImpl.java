@@ -14,7 +14,6 @@ import com.walmart.delivery.domain.repository.PathRepository;
  * Provided services for Pathrepository
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Service

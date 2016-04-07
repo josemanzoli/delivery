@@ -7,7 +7,6 @@ import org.springframework.data.neo4j.annotation.GraphId;
  * Used to implements an Id
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 public abstract class AbstractEntity {

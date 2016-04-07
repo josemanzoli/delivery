@@ -11,7 +11,6 @@ import org.springframework.data.neo4j.config.Neo4jConfiguration;
  * Configuration to initialize the Neo4J repositories
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Configuration

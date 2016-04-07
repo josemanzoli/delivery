@@ -4,7 +4,6 @@ package com.walmart.delivery;
  * Configuration to initialize the webApp and  the Spring context
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 import javax.servlet.ServletContext;  

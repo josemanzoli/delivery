@@ -25,7 +25,6 @@ import com.walmart.delivery.service.impl.DeliveryServiceImpl;
  * Used to prove that the algorithm really works
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 public class DeliveryServiceTest {

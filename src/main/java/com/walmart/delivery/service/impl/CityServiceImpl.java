@@ -13,7 +13,6 @@ import com.walmart.delivery.domain.repository.CityRepository;
  * Provided services for CityRepository
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Service

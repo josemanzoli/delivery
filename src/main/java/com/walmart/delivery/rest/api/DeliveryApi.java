@@ -23,7 +23,6 @@ import com.walmart.delivery.service.impl.DeliveryServiceImpl;
  * gives you the minimum cost based on parameters.
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @RestController

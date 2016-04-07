@@ -1,10 +1,10 @@
 package com.walmart.delivery.rest.api.to;
 
+
 /**
  * Class with default behavior of an output
  * 
  * @author josemanzoli
- * @since 2014-09-18
  * 
  */
 
@@ -14,9 +14,13 @@ public class BaseOutputTO implements TransferObject {
 
 	public static final int SUCCESS = 200;
 	
+	public static final int CREATED = 201;
+	
 	public static final int ERROR = 400;
 	
 	public static final String MSG_SUCCESS = "success";
+	
+	public static final String MSG_CREATED = "object created";
 	
 	public static final String MSG_ERROR = "Ops, something went wrong";
 	
@@ -55,6 +59,11 @@ public class BaseOutputTO implements TransferObject {
 	public void success(){
 		setCode(SUCCESS);
 		setMessage(MSG_SUCCESS);
+	}
+	
+	public void created(){
+		setCode(CREATED);
+		setMessage(MSG_CREATED);
 	}
 	
 	/**

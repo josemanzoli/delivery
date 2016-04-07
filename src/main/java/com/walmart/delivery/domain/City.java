@@ -13,7 +13,6 @@ import org.springframework.data.neo4j.annotation.RelatedToVia;
  * City entity
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @NodeEntity

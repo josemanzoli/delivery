@@ -6,7 +6,6 @@ import java.util.List;
  * Transfer Object that receives the input of a delivery map representation
  * 
  * @author josemanzoli
- * @since 2014-09-18 
  */
 public class DeliveryTO {
 

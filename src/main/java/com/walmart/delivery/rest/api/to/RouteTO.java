@@ -4,7 +4,6 @@ package com.walmart.delivery.rest.api.to;
  * Transfer Object that receives the input of a specific route
  * 
  * @author josemanzoli
- * @since 2014-09-18
  * 
  */
 public class RouteTO {

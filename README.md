@@ -45,13 +45,17 @@ REST API that receives a simple Map with directions between points and gives you
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
 
 * First, save the Map
-![saveMap](https://github.com/zehdamoto/delivery/blob/master/saveMap.png)
+![saveMap](https://github.com/josemanzoli/delivery/blob/master/saveMap.png)
+* Curl example:  curl -X PUT -H "Content-Type: application/json" -H "Accept: application/json" -d '{"stateName": "SP", "routes": [{"from" : "A", "to":"B", "distance":10.0},{"from" : "B", "to":"D", "distance":15.0},{"from" : "A", "to":"C", "distance":20.0},{"from" : "C", "to":"D", "distance":30.0},{"from" : "B", "to":"E", "distance":50.0},{"from" : "D", "to":"E", "distance":30.0}]}' http://localhost:8080/deliveryService/saveMap
 
 *Then see if the Map is saved
-![FindByState](https://github.com/zehdamoto/delivery/blob/master/findByState.png)
+![FindByState](https://github.com/josemanzoli/delivery/blob/master/findByState.png)
+* Curl example: curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/deliveryService/findByState?state=SP
 
 * and the last thing and most important, get your shortest path
-![getShortestPath](https://github.com/zehdamoto/delivery/blob/master/getShortestPath.png)
+![getShortestPath](https://github.com/josemanzoli/delivery/blob/master/getShortestPath.png)
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET 'http://localhost:8080/deliveryService/shortestPath?mapName=SP&sourceName=A&destinationName=D&price=2.5&autonomy=10.0'
 
 *If you want to clean up the database use this
-![removeCities](https://github.com/zehdamoto/delivery/blob/master/removeCities.png)
+![removeCities](https://github.com/josemanzoli/delivery/blob/master/removeCities.png)
+curl -i -H "Accept: application/json" -X DELETE http://localhost:8080/deliveryService/removeCities

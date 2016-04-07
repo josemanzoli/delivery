@@ -8,7 +8,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
  * Configuration class for SpringWebMvc
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Configuration

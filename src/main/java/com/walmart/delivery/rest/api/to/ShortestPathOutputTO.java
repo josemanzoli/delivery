@@ -4,7 +4,6 @@ package com.walmart.delivery.rest.api.to;
  * Transfer Object that returns an output with the calculation result of the dikjsktra algorithm
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 public class ShortestPathOutputTO extends BaseOutputTO{

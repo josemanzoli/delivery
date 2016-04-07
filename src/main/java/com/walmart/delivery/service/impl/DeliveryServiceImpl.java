@@ -30,7 +30,6 @@ import es.usc.citius.hipster.util.graph.HashBasedHipsterDirectedGraph;
  * Aggregation of services and Business Rules implementations, you can call this class "The heart of the solution" 
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Service
@@ -58,7 +57,7 @@ public class DeliveryServiceImpl {
 			saveRoute(route, deliveryTO.getStateName());
 		}
 		BaseOutputTO baseOutputTO = new BaseOutputTO();
-		baseOutputTO.success();
+		baseOutputTO.created();
 		return baseOutputTO;
 	}
 	

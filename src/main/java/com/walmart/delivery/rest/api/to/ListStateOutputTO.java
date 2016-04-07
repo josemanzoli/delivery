@@ -7,7 +7,6 @@ import java.util.List;
  * Transfer Object that returns an output list of cities
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 public class ListStateOutputTO extends BaseOutputTO{

@@ -1,0 +1,757 @@
+2016-04-07 21:29:21.745+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:29:21.841+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:29:22.118+0000 INFO  [o.n.k.i.n.s.StoreFactory]: Creating new db @ accessingdataneo4j.db/neostore
+2016-04-07 21:29:22.147+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.148+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.149+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.150+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.153+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.154+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.154+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.154+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.159+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.159+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.159+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.160+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.160+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:29:22.160+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.161+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.161+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:29:22.163+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=6952042b mappedMem=695205888b (storeSize=0b)
+2016-04-07 21:29:22.165+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=8514416b mappedMem=851443712b (storeSize=0b)
+2016-04-07 21:29:22.165+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:29:22.166+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=1929375b mappedMem=192937984b (storeSize=0b)
+2016-04-07 21:29:22.167+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2016-04-07 21:29:22.168+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:29:22.169+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.173+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.174+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.175+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.175+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.176+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.177+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.178+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.178+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.180+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.181+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.182+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.186+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.189+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.193+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:29:22.197+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=8 switches=0 ooe=0
+2016-04-07 21:29:22.234+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.235+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.240+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.240+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.241+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:29:22.244+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2016-04-07 21:29:22.244+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2016-04-07 21:29:22.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:29:22.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=6952042b mappedMem=695205888b (storeSize=0b)
+2016-04-07 21:29:22.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=8514416b mappedMem=851443712b (storeSize=0b)
+2016-04-07 21:29:22.246+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:29:22.246+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=1929375b mappedMem=192937984b (storeSize=0b)
+2016-04-07 21:29:22.246+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2016-04-07 21:29:22.247+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:29:22.247+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:29:22.307+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2016-04-07 21:29:22.337+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2016-04-07 21:29:22.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+2016-04-07 21:29:22.468+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Rebuilding lucene scan store, this may take a while
+2016-04-07 21:29:22.470+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Lucene scan store rebuilt (roughly -1 nodes)
+2016-04-07 21:29:22.473+0000 INFO  [o.n.k.i.t.TxManager]: TM new log: tm_tx_log.1
+2016-04-07 21:29:22.477+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:29:22.488+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=0, lastTxId=1 (clean)
+2016-04-07 21:29:22.492+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:29:22.497+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:29:22.500+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:29:22.501+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:29:22.501+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:29:22.502+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:29:22.502+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:29:22.502+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:29:22.502+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:29:22.519+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:29:22.583+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:29:22.584+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:29:26.180+0000 INFO  [o.n.k.i.a.i.IndexPopulationJob]: Index population started: [:City(name) [provider: {key=lucene, version=1.0}]]
+2016-04-07 21:29:26.206+0000 INFO  [o.n.k.i.a.i.IndexPopulationJob]: Index population completed. Index is now online: [:City(name) [provider: {key=lucene, version=1.0}]]
+2016-04-07 21:35:01.973+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 21:35:01.974+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2016-04-07 21:35:01.975+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2016-04-07 21:35:01.984+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/index/lucene.log
+2016-04-07 21:35:01.987+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2016-04-07 21:35:01.994+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/nioneo_logical.log
+2016-04-07 21:35:01.998+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=1 switches=0 ooe=0
+2016-04-07 21:35:01.999+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2016-04-07 21:35:02.000+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:35:02.001+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:35:02.002+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.003+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:35:02.004+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:35:02.004+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.005+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=41 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.006+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=27 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.007+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.008+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=47 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.008+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:35:02.009+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:35:02.010+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=40 switches=0 ooe=0
+2016-04-07 21:35:02.011+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2016-04-07 21:35:02.011+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2016-04-07 21:35:02.011+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2016-04-07 21:35:06.395+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:35:06.404+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:35:06.460+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:35:06.461+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:35:06.462+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2016-04-07 21:35:06.462+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2016-04-07 21:35:06.462+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:35:06.463+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:35:06.463+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:35:06.464+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:35:06.466+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=451b)
+2016-04-07 21:35:06.468+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=204b)
+2016-04-07 21:35:06.468+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:35:06.470+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:35:06.470+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:35:06.471+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:35:06.472+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:35:06.638+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:35:06.648+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=1, lastTxId=26 (clean)
+2016-04-07 21:35:06.654+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:35:06.658+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:35:06.659+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:35:06.667+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=1, lastTxId=8 (clean)
+2016-04-07 21:35:06.670+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:35:06.672+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:35:06.674+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:35:06.674+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:35:06.674+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:35:06.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:35:06.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:35:06.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:35:06.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:35:06.694+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:35:06.728+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:35:06.734+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:35:08.416+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 480ms [total block time: 0.48s]
+2016-04-07 21:35:08.973+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 457ms [total block time: 0.937s]
+2016-04-07 21:35:09.375+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 301ms [total block time: 1.238s]
+2016-04-07 21:35:09.759+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 284ms [total block time: 1.522s]
+2016-04-07 21:35:09.927+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 21:35:10.272+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 247ms [total block time: 1.769s]
+2016-04-07 21:35:10.549+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 1.946s]
+2016-04-07 21:35:10.877+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 228ms [total block time: 2.174s]
+2016-04-07 21:35:11.935+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 354ms [total block time: 2.528s]
+2016-04-07 21:35:12.487+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 2.696s]
+2016-04-07 21:35:13.036+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 194ms [total block time: 2.89s]
+2016-04-07 21:35:13.605+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 196ms [total block time: 3.086s]
+2016-04-07 21:35:14.137+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 3.246s]
+2016-04-07 21:35:14.657+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 3.409s]
+2016-04-07 21:35:15.290+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 227ms [total block time: 3.636s]
+2016-04-07 21:35:15.859+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 3.798s]
+2016-04-07 21:35:16.423+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 3.975s]
+2016-04-07 21:35:16.942+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 4.139s]
+2016-04-07 21:35:17.462+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 4.302s]
+2016-04-07 21:35:17.980+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 4.464s]
+2016-04-07 21:35:18.520+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 188ms [total block time: 4.652s]
+2016-04-07 21:35:21.982+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 266ms [total block time: 4.918s]
+2016-04-07 21:35:22.287+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 204ms [total block time: 5.122s]
+2016-04-07 21:35:22.562+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 175ms [total block time: 5.297s]
+2016-04-07 21:35:22.844+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 182ms [total block time: 5.479s]
+2016-04-07 21:35:23.117+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 5.652s]
+2016-04-07 21:35:23.381+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 5.816s]
+2016-04-07 21:35:23.947+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 184ms [total block time: 6.0s]
+2016-04-07 21:35:24.503+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 180ms [total block time: 6.18s]
+2016-04-07 21:35:24.768+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 6.345s]
+2016-04-07 21:35:25.334+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 196ms [total block time: 6.541s]
+2016-04-07 21:35:25.850+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 6.697s]
+2016-04-07 21:35:26.138+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 188ms [total block time: 6.885s]
+2016-04-07 21:35:26.694+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 7.055s]
+2016-04-07 21:35:27.241+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 188ms [total block time: 7.243s]
+2016-04-07 21:36:13.083+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 291ms [total block time: 7.534s]
+2016-04-07 21:36:33.187+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 150ms [total block time: 7.684s]
+2016-04-07 21:36:33.607+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 319ms [total block time: 8.003s]
+2016-04-07 21:36:34.296+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 223ms [total block time: 8.226s]
+2016-04-07 21:36:35.398+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 273ms [total block time: 8.499s]
+2016-04-07 21:36:36.939+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 8.667s]
+2016-04-07 21:36:39.321+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 222ms [total block time: 8.889s]
+2016-04-07 21:36:42.690+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 214ms [total block time: 9.103s]
+2016-04-07 21:36:43.081+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 291ms [total block time: 9.394s]
+2016-04-07 21:37:33.896+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 284ms [total block time: 9.678s]
+2016-04-07 21:37:34.437+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 9.837s]
+2016-04-07 21:37:34.984+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 10.01s]
+2016-04-07 21:37:35.510+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 10.177s]
+2016-04-07 21:37:36.043+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 10.338s]
+2016-04-07 21:37:36.577+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 10.501s]
+2016-04-07 21:37:37.093+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 10.663s]
+2016-04-07 21:37:37.615+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 10.828s]
+2016-04-07 21:37:38.156+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 183ms [total block time: 11.011s]
+2016-04-07 21:37:38.697+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 11.181s]
+2016-04-07 21:37:39.265+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 11.349s]
+2016-04-07 21:37:39.811+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 11.511s]
+2016-04-07 21:37:40.347+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 11.675s]
+2016-04-07 21:37:40.871+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 166ms [total block time: 11.841s]
+2016-04-07 21:37:41.392+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 11.997s]
+2016-04-07 21:37:41.911+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 12.156s]
+2016-04-07 21:37:42.438+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 12.32s]
+2016-04-07 21:37:42.961+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 12.484s]
+2016-04-07 21:37:43.496+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 12.661s]
+2016-04-07 21:37:44.035+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 12.837s]
+2016-04-07 21:37:44.628+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 12.999s]
+2016-04-07 21:37:45.200+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 13.158s]
+2016-04-07 21:37:45.715+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 13.314s]
+2016-04-07 21:37:46.325+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 258ms [total block time: 13.572s]
+2016-04-07 21:37:46.853+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 13.731s]
+2016-04-07 21:37:47.367+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 155ms [total block time: 13.886s]
+2016-04-07 21:37:47.887+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 14.04s]
+2016-04-07 21:37:48.411+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 158ms [total block time: 14.198s]
+2016-04-07 21:37:48.671+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 14.358s]
+2016-04-07 21:37:49.238+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 14.515s]
+2016-04-07 21:37:49.761+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 14.678s]
+2016-04-07 21:37:50.278+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 14.832s]
+2016-04-07 21:37:50.797+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 14.991s]
+2016-04-07 21:37:51.313+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 15.145s]
+2016-04-07 21:37:51.841+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 15.304s]
+2016-04-07 21:37:52.376+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 15.469s]
+2016-04-07 21:37:52.934+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 15.645s]
+2016-04-07 21:37:53.462+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 169ms [total block time: 15.814s]
+2016-04-07 21:37:54.306+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 178ms [total block time: 15.992s]
+2016-04-07 21:37:54.854+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 175ms [total block time: 16.167s]
+2016-04-07 21:37:55.406+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 16.348s]
+2016-04-07 21:37:56.232+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 221ms [total block time: 16.569s]
+2016-04-07 21:37:56.777+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 16.737s]
+2016-04-07 21:37:57.310+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 16.907s]
+2016-04-07 21:37:58.086+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 17.063s]
+2016-04-07 21:37:58.613+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 17.235s]
+2016-04-07 21:37:59.136+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 166ms [total block time: 17.401s]
+2016-04-07 21:37:59.915+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 421ms [total block time: 17.822s]
+2016-04-07 21:38:00.429+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 155ms [total block time: 17.977s]
+2016-04-07 21:38:00.945+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 18.136s]
+2016-04-07 21:38:01.477+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 18.308s]
+2016-04-07 21:38:02.246+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 18.465s]
+2016-04-07 21:38:03.023+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 418ms [total block time: 18.883s]
+2016-04-07 21:38:03.792+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 410ms [total block time: 19.293s]
+2016-04-07 21:38:04.306+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 151ms [total block time: 19.444s]
+2016-04-07 21:38:05.082+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 19.604s]
+2016-04-07 21:38:05.617+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 19.768s]
+2016-04-07 21:38:06.137+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 19.925s]
+2016-04-07 21:38:06.642+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 152ms [total block time: 20.077s]
+2016-04-07 21:38:07.153+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 20.233s]
+2016-04-07 21:38:07.933+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 20.393s]
+2016-04-07 21:38:08.447+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 155ms [total block time: 20.548s]
+2016-04-07 21:38:09.011+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 20.716s]
+2016-04-07 21:38:09.539+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 20.886s]
+2016-04-07 21:38:10.082+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 190ms [total block time: 21.076s]
+2016-04-07 21:38:10.679+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 189ms [total block time: 21.265s]
+2016-04-07 21:38:11.210+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 175ms [total block time: 21.44s]
+2016-04-07 21:38:11.752+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 183ms [total block time: 21.623s]
+2016-04-07 21:38:12.284+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 21.777s]
+2016-04-07 21:38:12.843+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 21.953s]
+2016-04-07 21:38:13.354+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 153ms [total block time: 22.106s]
+2016-04-07 21:38:13.879+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 22.271s]
+2016-04-07 21:38:14.429+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 22.447s]
+2016-04-07 21:38:14.957+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 22.606s]
+2016-04-07 21:38:15.479+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 22.768s]
+2016-04-07 21:38:16.002+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 168ms [total block time: 22.936s]
+2016-04-07 21:38:16.600+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 199ms [total block time: 23.135s]
+2016-04-07 21:38:17.162+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 23.311s]
+2016-04-07 21:38:17.688+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 158ms [total block time: 23.469s]
+2016-04-07 21:38:18.244+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 205ms [total block time: 23.674s]
+2016-04-07 21:38:18.515+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 23.845s]
+2016-04-07 21:38:19.072+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 175ms [total block time: 24.02s]
+2016-04-07 21:38:19.608+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 24.181s]
+2016-04-07 21:38:20.176+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 203ms [total block time: 24.384s]
+2016-04-07 21:38:20.714+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 24.541s]
+2016-04-07 21:38:21.306+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 232ms [total block time: 24.773s]
+2016-04-07 21:38:21.962+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 188ms [total block time: 24.961s]
+2016-04-07 21:38:22.664+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 328ms [total block time: 25.289s]
+2016-04-07 21:38:23.271+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 211ms [total block time: 25.5s]
+2016-04-07 21:38:24.098+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 436ms [total block time: 25.936s]
+2016-04-07 21:38:24.573+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 375ms [total block time: 26.311s]
+2016-04-07 21:38:25.556+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 334ms [total block time: 26.645s]
+2016-04-07 21:38:25.835+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 179ms [total block time: 26.824s]
+2016-04-07 21:38:26.388+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 183ms [total block time: 27.007s]
+2016-04-07 21:38:26.976+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 27.169s]
+2016-04-07 21:38:27.585+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 206ms [total block time: 27.375s]
+2016-04-07 21:38:27.889+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 203ms [total block time: 27.578s]
+2016-04-07 21:38:28.143+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 27.732s]
+2016-04-07 21:38:28.688+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 180ms [total block time: 27.912s]
+2016-04-07 21:38:29.458+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 258ms [total block time: 28.17s]
+2016-04-07 21:38:29.730+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 28.341s]
+2016-04-07 21:38:30.242+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 28.497s]
+2016-04-07 21:38:30.514+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 28.669s]
+2016-04-07 21:38:31.034+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 28.834s]
+2016-04-07 21:38:31.692+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 207ms [total block time: 29.041s]
+2016-04-07 21:38:32.236+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 29.222s]
+2016-04-07 21:38:32.949+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 268ms [total block time: 29.49s]
+2016-04-07 21:38:34.021+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 312ms [total block time: 29.802s]
+2016-04-07 21:38:34.328+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 206ms [total block time: 30.008s]
+2016-04-07 21:38:34.996+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 179ms [total block time: 30.187s]
+2016-04-07 21:38:35.651+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 292ms [total block time: 30.479s]
+2016-04-07 21:38:36.558+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 255ms [total block time: 30.734s]
+2016-04-07 21:38:37.230+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 303ms [total block time: 31.037s]
+2016-04-07 21:38:37.792+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 158ms [total block time: 31.195s]
+2016-04-07 21:38:38.732+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 451ms [total block time: 31.646s]
+2016-04-07 21:38:39.389+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 31.819s]
+2016-04-07 21:38:40.299+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 180ms [total block time: 31.999s]
+2016-04-07 21:38:41.217+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 189ms [total block time: 32.188s]
+2016-04-07 21:38:41.784+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 32.369s]
+2016-04-07 21:38:42.680+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 532ms [total block time: 32.901s]
+2016-04-07 21:38:43.219+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 33.073s]
+2016-04-07 21:38:43.752+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 33.244s]
+2016-04-07 21:38:44.567+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 33.425s]
+2016-04-07 21:38:45.362+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 169ms [total block time: 33.594s]
+2016-04-07 21:38:45.993+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 276ms [total block time: 33.87s]
+2016-04-07 21:38:46.809+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 34.041s]
+2016-04-07 21:38:47.336+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 34.204s]
+2016-04-07 21:38:48.141+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 433ms [total block time: 34.637s]
+2016-04-07 21:38:48.666+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 34.808s]
+2016-04-07 21:38:49.193+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 34.972s]
+2016-04-07 21:38:49.999+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 35.149s]
+2016-04-07 21:38:50.323+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 224ms [total block time: 35.373s]
+2016-04-07 21:38:50.869+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 35.55s]
+2016-04-07 21:38:51.223+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 254ms [total block time: 35.804s]
+2016-04-07 21:38:51.759+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 35.98s]
+2016-04-07 21:38:52.048+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 189ms [total block time: 36.169s]
+2016-04-07 21:38:52.562+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 36.329s]
+2016-04-07 21:38:53.139+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 211ms [total block time: 36.54s]
+2016-04-07 21:38:53.419+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 179ms [total block time: 36.719s]
+2016-04-07 21:38:53.930+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 36.876s]
+2016-04-07 21:38:54.455+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 37.03s]
+2016-04-07 21:38:54.981+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 37.192s]
+2016-04-07 21:38:55.242+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 37.353s]
+2016-04-07 21:38:55.759+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 37.51s]
+2016-04-07 21:38:56.296+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 37.675s]
+2016-04-07 21:38:56.921+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 237ms [total block time: 37.912s]
+2016-04-07 21:38:57.538+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 255ms [total block time: 38.167s]
+2016-04-07 21:38:58.061+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 162ms [total block time: 38.329s]
+2016-04-07 21:38:58.606+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 183ms [total block time: 38.512s]
+2016-04-07 21:38:59.167+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 38.693s]
+2016-04-07 21:38:59.712+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 38.865s]
+2016-04-07 21:39:00.250+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 39.032s]
+2016-04-07 21:39:00.874+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 195ms [total block time: 39.227s]
+2016-04-07 21:39:01.429+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 187ms [total block time: 39.414s]
+2016-04-07 21:39:01.960+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 166ms [total block time: 39.58s]
+2016-04-07 21:39:02.507+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 178ms [total block time: 39.758s]
+2016-04-07 21:39:03.036+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 39.922s]
+2016-04-07 21:39:03.632+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 228ms [total block time: 40.15s]
+2016-04-07 21:39:04.262+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 198ms [total block time: 40.348s]
+2016-04-07 21:39:04.924+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 242ms [total block time: 40.59s]
+2016-04-07 21:39:05.481+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 198ms [total block time: 40.788s]
+2016-04-07 21:39:06.020+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 40.96s]
+2016-04-07 21:39:06.644+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 41.141s]
+2016-04-07 21:39:07.192+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 41.306s]
+2016-04-07 21:39:07.849+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 153ms [total block time: 41.459s]
+2016-04-07 21:39:08.363+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 41.624s]
+2016-04-07 21:39:08.909+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 41.796s]
+2016-04-07 21:39:09.567+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 283ms [total block time: 42.079s]
+2016-04-07 21:39:10.284+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 357ms [total block time: 42.436s]
+2016-04-07 21:39:10.561+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 42.613s]
+2016-04-07 21:39:11.381+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 42.79s]
+2016-04-07 21:39:12.256+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 401ms [total block time: 43.191s]
+2016-04-07 21:39:12.991+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 251ms [total block time: 43.442s]
+2016-04-07 21:39:13.804+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 178ms [total block time: 43.62s]
+2016-04-07 21:39:14.327+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 158ms [total block time: 43.778s]
+2016-04-07 21:39:14.874+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 43.948s]
+2016-04-07 21:39:15.395+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 44.112s]
+2016-04-07 21:39:15.939+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 44.285s]
+2016-04-07 21:39:16.497+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 198ms [total block time: 44.483s]
+2016-04-07 21:39:16.767+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 170ms [total block time: 44.653s]
+2016-04-07 21:39:17.346+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 193ms [total block time: 44.846s]
+2016-04-07 21:39:18.172+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 171ms [total block time: 45.017s]
+2016-04-07 21:39:18.735+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 45.177s]
+2016-04-07 21:39:19.136+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 301ms [total block time: 45.478s]
+2016-04-07 21:39:19.685+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 45.641s]
+2016-04-07 21:39:20.201+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 45.8s]
+2016-04-07 21:39:20.710+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 152ms [total block time: 45.952s]
+2016-04-07 21:39:21.696+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 305ms [total block time: 46.257s]
+2016-04-07 21:39:22.003+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 206ms [total block time: 46.463s]
+2016-04-07 21:39:22.730+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 46.63s]
+2016-04-07 21:39:23.262+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 46.793s]
+2016-04-07 21:39:23.931+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 46.965s]
+2016-04-07 21:39:24.786+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 485ms [total block time: 47.45s]
+2016-04-07 21:39:25.894+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 47.611s]
+2016-04-07 21:39:26.445+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 177ms [total block time: 47.788s]
+2016-04-07 21:39:27.286+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 345ms [total block time: 48.133s]
+2016-04-07 21:39:27.649+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 263ms [total block time: 48.396s]
+2016-04-07 21:39:30.132+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 179ms [total block time: 48.575s]
+2016-04-07 21:39:35.054+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 48.731s]
+2016-04-07 21:39:40.166+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 48.885s]
+2016-04-07 21:39:44.407+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 49.044s]
+2016-04-07 21:39:48.530+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 316ms [total block time: 49.36s]
+2016-04-07 21:39:53.078+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 169ms [total block time: 49.529s]
+2016-04-07 21:39:57.580+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 49.686s]
+2016-04-07 21:40:00.541+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 49.849s]
+2016-04-07 21:40:05.330+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 156ms [total block time: 50.005s]
+2016-04-07 21:40:10.211+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 166ms [total block time: 50.171s]
+2016-04-07 21:40:15.251+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 157ms [total block time: 50.328s]
+2016-04-07 21:40:18.614+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 198ms [total block time: 50.526s]
+2016-04-07 21:40:23.428+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 50.699s]
+2016-04-07 21:40:26.398+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 176ms [total block time: 50.875s]
+2016-04-07 21:40:31.127+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 51.029s]
+2016-04-07 21:40:35.861+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 51.193s]
+2016-04-07 21:40:40.385+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 155ms [total block time: 51.348s]
+2016-04-07 21:40:45.142+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 172ms [total block time: 51.52s]
+2016-04-07 21:40:49.302+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 51.681s]
+2016-04-07 21:40:53.002+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 222ms [total block time: 51.903s]
+2016-04-07 21:40:57.349+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 154ms [total block time: 52.057s]
+2016-04-07 21:41:02.651+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 161ms [total block time: 52.218s]
+2016-04-07 21:41:06.596+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 155ms [total block time: 52.373s]
+2016-04-07 21:41:11.350+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 52.54s]
+2016-04-07 21:41:15.715+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 52.699s]
+2016-04-07 21:41:19.847+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 151ms [total block time: 52.85s]
+2016-04-07 21:41:24.246+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 152ms [total block time: 53.002s]
+2016-04-07 21:41:28.390+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 53.167s]
+2016-04-07 21:41:33.220+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 159ms [total block time: 53.326s]
+2016-04-07 21:41:37.856+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 319ms [total block time: 53.645s]
+2016-04-07 21:41:41.456+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 148ms [total block time: 53.793s]
+2016-04-07 21:41:45.002+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 151ms [total block time: 53.944s]
+2016-04-07 21:41:48.920+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 151ms [total block time: 54.095s]
+2016-04-07 21:41:53.782+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 188ms [total block time: 54.283s]
+2016-04-07 21:41:58.461+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 152ms [total block time: 54.435s]
+2016-04-07 21:42:03.990+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 54.616s]
+2016-04-07 21:42:09.161+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 210ms [total block time: 54.826s]
+2016-04-07 21:42:14.617+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 54.993s]
+2016-04-07 21:42:19.289+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 186ms [total block time: 55.179s]
+2016-04-07 21:42:24.096+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 187ms [total block time: 55.366s]
+2016-04-07 21:42:27.649+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 55.53s]
+2016-04-07 21:42:33.324+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 182ms [total block time: 55.712s]
+2016-04-07 21:42:38.117+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 239ms [total block time: 55.951s]
+2016-04-07 21:42:42.999+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 180ms [total block time: 56.131s]
+2016-04-07 21:42:47.182+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 163ms [total block time: 56.294s]
+2016-04-07 21:42:51.603+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 164ms [total block time: 56.458s]
+2016-04-07 21:43:10.492+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:43:10.520+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:43:10.673+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:43:10.676+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:43:10.677+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2016-04-07 21:43:10.678+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2016-04-07 21:43:10.678+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:43:10.679+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:43:10.679+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:43:10.681+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:43:10.687+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=451b)
+2016-04-07 21:43:10.689+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=204b)
+2016-04-07 21:43:10.689+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:43:10.691+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:43:10.692+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:43:10.693+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:43:10.694+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:43:10.884+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:43:10.895+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [accessingdataneo4j.db/nioneo_logical.log.1]. Recovery started ...
+2016-04-07 21:43:10.895+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/nioneo_logical.log.1] logVersion=1 with committed tx=26
+2016-04-07 21:43:10.897+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2016-04-07 21:43:10.898+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2016-04-07 21:43:10.898+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2016-04-07 21:43:10.898+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2016-04-07 21:43:10.923+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2016-04-07 21:43:10.923+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [accessingdataneo4j.db/nioneo_logical.log.1] completed.
+2016-04-07 21:43:10.928+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:43:10.933+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:43:10.933+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:43:10.944+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [accessingdataneo4j.db/index/lucene.log.1]. Recovery started ...
+2016-04-07 21:43:10.945+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/index/lucene.log.1] logVersion=1 with committed tx=8
+2016-04-07 21:43:10.946+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/index/lucene.log.1] entries found=0 lastEntryPos=16
+2016-04-07 21:43:10.947+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=1, lastTxId=-1 (recovered)
+2016-04-07 21:43:10.947+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2016-04-07 21:43:10.947+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2016-04-07 21:43:10.947+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2016-04-07 21:43:10.947+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [accessingdataneo4j.db/index/lucene.log.1] completed.
+2016-04-07 21:43:10.951+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:43:10.955+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:43:10.957+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:43:10.957+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:43:10.957+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:43:10.958+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:43:10.958+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:43:10.958+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:43:10.958+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:43:10.978+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:43:11.009+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:43:11.011+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:43:44.972+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 21:43:44.973+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2016-04-07 21:43:44.974+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2016-04-07 21:43:44.987+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/index/lucene.log
+2016-04-07 21:43:44.992+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2016-04-07 21:43:44.995+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/nioneo_logical.log
+2016-04-07 21:43:45.000+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:43:45.003+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2016-04-07 21:43:45.005+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=5 switches=0 ooe=0
+2016-04-07 21:43:45.009+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2016-04-07 21:43:45.010+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.012+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=8 switches=0 ooe=0
+2016-04-07 21:43:45.023+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:43:45.025+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.026+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=82 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.029+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=117 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.032+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.038+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=122 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.039+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=5 switches=0 ooe=0
+2016-04-07 21:43:45.040+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:43:45.043+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=29 switches=0 ooe=0
+2016-04-07 21:43:45.046+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2016-04-07 21:43:45.046+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2016-04-07 21:43:45.047+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2016-04-07 21:43:49.295+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:43:49.306+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:43:49.364+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:43:49.366+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:43:49.366+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+2016-04-07 21:43:49.366+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+2016-04-07 21:43:49.367+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:43:49.367+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:43:49.367+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:43:49.368+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:43:49.371+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=492b)
+2016-04-07 21:43:49.374+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=408b)
+2016-04-07 21:43:49.374+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:43:49.378+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:43:49.380+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:43:49.383+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:43:49.383+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:43:49.574+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:43:49.589+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=2, lastTxId=40 (clean)
+2016-04-07 21:43:49.595+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:43:49.602+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:43:49.602+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:43:49.612+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=2, lastTxId=20 (clean)
+2016-04-07 21:43:49.615+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:43:49.618+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:43:49.620+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:43:49.621+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:43:49.643+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:43:49.673+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:43:49.677+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:43:51.787+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 312ms [total block time: 0.312s]
+2016-04-07 21:43:52.320+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 433ms [total block time: 0.745s]
+2016-04-07 21:43:52.740+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 319ms [total block time: 1.064s]
+2016-04-07 21:43:53.037+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 196ms [total block time: 1.26s]
+2016-04-07 21:43:53.806+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 312ms [total block time: 1.572s]
+2016-04-07 21:43:54.606+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 204ms [total block time: 1.776s]
+2016-04-07 21:43:55.489+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 1.943s]
+2016-04-07 21:43:56.394+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 231ms [total block time: 2.174s]
+2016-04-07 21:43:57.829+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 192ms [total block time: 2.366s]
+2016-04-07 21:43:59.292+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 408ms [total block time: 2.774s]
+2016-04-07 21:44:00.192+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 298ms [total block time: 3.072s]
+2016-04-07 21:44:09.734+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 271ms [total block time: 3.343s]
+2016-04-07 21:44:10.347+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 210ms [total block time: 3.553s]
+2016-04-07 21:44:10.874+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 160ms [total block time: 3.713s]
+2016-04-07 21:44:11.754+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 185ms [total block time: 3.898s]
+2016-04-07 21:44:12.587+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 430ms [total block time: 4.328s]
+2016-04-07 21:44:13.156+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 187ms [total block time: 4.515s]
+2016-04-07 21:44:13.845+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 255ms [total block time: 4.77s]
+2016-04-07 21:44:14.519+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 271ms [total block time: 5.041s]
+2016-04-07 21:44:15.145+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 215ms [total block time: 5.256s]
+2016-04-07 21:44:15.736+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 187ms [total block time: 5.443s]
+2016-04-07 21:44:16.325+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 222ms [total block time: 5.665s]
+2016-04-07 21:44:17.044+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 284ms [total block time: 5.949s]
+2016-04-07 21:44:17.813+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 300ms [total block time: 6.249s]
+2016-04-07 21:44:18.432+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 211ms [total block time: 6.46s]
+2016-04-07 21:44:19.078+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 183ms [total block time: 6.643s]
+2016-04-07 21:44:19.725+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 257ms [total block time: 6.9s]
+2016-04-07 21:44:20.076+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 251ms [total block time: 7.151s]
+2016-04-07 21:44:20.408+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 232ms [total block time: 7.383s]
+2016-04-07 21:44:21.121+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 313ms [total block time: 7.696s]
+2016-04-07 21:44:21.455+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 233ms [total block time: 7.929s]
+2016-04-07 21:44:21.744+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 189ms [total block time: 8.118s]
+2016-04-07 21:44:22.375+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 260ms [total block time: 8.378s]
+2016-04-07 21:44:23.000+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 217ms [total block time: 8.595s]
+2016-04-07 21:48:26.253+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:48:26.272+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:48:26.371+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:48:26.372+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:48:26.373+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+2016-04-07 21:48:26.374+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+2016-04-07 21:48:26.375+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:48:26.375+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:48:26.376+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:48:26.377+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:48:26.383+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=492b)
+2016-04-07 21:48:26.386+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=408b)
+2016-04-07 21:48:26.386+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:48:26.388+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:48:26.389+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:48:26.390+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:48:26.391+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:48:26.589+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:48:26.600+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [accessingdataneo4j.db/nioneo_logical.log.1]. Recovery started ...
+2016-04-07 21:48:26.601+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/nioneo_logical.log.1] logVersion=2 with committed tx=40
+2016-04-07 21:48:26.603+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2016-04-07 21:48:26.604+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=2, lastTxId=-1 (recovered)
+2016-04-07 21:48:26.604+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2016-04-07 21:48:26.605+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2016-04-07 21:48:26.636+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2016-04-07 21:48:26.636+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [accessingdataneo4j.db/nioneo_logical.log.1] completed.
+2016-04-07 21:48:26.641+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:48:26.644+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:48:26.645+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:48:26.657+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [accessingdataneo4j.db/index/lucene.log.1]. Recovery started ...
+2016-04-07 21:48:26.657+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/index/lucene.log.1] logVersion=2 with committed tx=20
+2016-04-07 21:48:26.657+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [accessingdataneo4j.db/index/lucene.log.1] entries found=0 lastEntryPos=16
+2016-04-07 21:48:26.658+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=2, lastTxId=-1 (recovered)
+2016-04-07 21:48:26.658+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2016-04-07 21:48:26.658+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2016-04-07 21:48:26.658+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2016-04-07 21:48:26.658+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [accessingdataneo4j.db/index/lucene.log.1] completed.
+2016-04-07 21:48:26.662+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:48:26.666+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:48:26.667+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:48:26.668+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:48:26.668+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:48:26.669+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:48:26.669+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:48:26.669+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:48:26.669+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:48:26.688+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:48:26.732+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:48:26.734+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:50:30.801+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 21:50:30.802+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2016-04-07 21:50:30.802+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2016-04-07 21:50:30.813+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/index/lucene.log
+2016-04-07 21:50:30.816+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2016-04-07 21:50:30.819+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/nioneo_logical.log
+2016-04-07 21:50:30.823+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:50:30.824+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2016-04-07 21:50:30.825+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=6 switches=0 ooe=0
+2016-04-07 21:50:30.826+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2016-04-07 21:50:30.827+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.827+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=8 switches=0 ooe=0
+2016-04-07 21:50:30.828+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:50:30.829+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.830+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=154 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.831+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=221 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.831+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.832+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=230 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.833+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=5 switches=0 ooe=0
+2016-04-07 21:50:30.834+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:50:30.835+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=40 switches=0 ooe=0
+2016-04-07 21:50:30.836+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2016-04-07 21:50:30.837+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2016-04-07 21:50:30.837+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2016-04-07 21:52:35.471+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:52:35.497+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:52:35.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:52:35.753+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:52:35.754+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+2016-04-07 21:52:35.754+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+2016-04-07 21:52:35.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:52:35.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:52:35.756+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:52:35.757+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:52:35.760+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=533b)
+2016-04-07 21:52:35.762+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=816b)
+2016-04-07 21:52:35.762+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:52:35.764+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:52:35.765+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:52:35.768+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:52:35.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:52:36.023+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:52:36.039+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=3, lastTxId=65 (clean)
+2016-04-07 21:52:36.047+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:52:36.056+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:52:36.056+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:52:36.069+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=3, lastTxId=44 (clean)
+2016-04-07 21:52:36.073+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:52:36.077+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:52:36.080+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:52:36.080+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:52:36.080+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:52:36.081+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:52:36.081+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:52:36.081+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:52:36.081+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:52:36.109+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:52:36.143+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:52:36.148+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 21:55:32.483+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 21:55:32.486+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2016-04-07 21:55:32.486+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2016-04-07 21:55:32.493+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/index/lucene.log
+2016-04-07 21:55:32.494+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2016-04-07 21:55:32.499+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/nioneo_logical.log
+2016-04-07 21:55:32.503+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2016-04-07 21:55:32.504+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2016-04-07 21:55:32.505+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=6 switches=0 ooe=0
+2016-04-07 21:55:32.506+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2016-04-07 21:55:32.507+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.508+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=8 switches=0 ooe=0
+2016-04-07 21:55:32.509+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:55:32.509+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.510+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=12 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.511+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=18 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.512+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.513+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=22 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.514+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=4 switches=0 ooe=0
+2016-04-07 21:55:32.515+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 21:55:32.516+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=16 switches=0 ooe=0
+2016-04-07 21:55:32.516+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2016-04-07 21:55:32.517+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2016-04-07 21:55:32.517+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2016-04-07 21:58:26.723+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2016-04-07 21:58:26.742+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2016-04-07 21:58:26.844+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=76b)
+2016-04-07 21:58:26.845+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=5b)
+2016-04-07 21:58:26.846+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=152b)
+2016-04-07 21:58:26.846+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=15b)
+2016-04-07 21:58:26.847+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.strings] brickCount=0 brickSize=590336b mappedMem=590348288b (storeSize=128b)
+2016-04-07 21:58:26.847+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2016-04-07 21:58:26.847+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=36b)
+2016-04-07 21:58:26.849+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db.arrays] brickCount=0 brickSize=669952b mappedMem=670040064b (storeSize=128b)
+2016-04-07 21:58:26.851+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.propertystore.db] brickCount=0 brickSize=695196b mappedMem=695205888b (storeSize=533b)
+2016-04-07 21:58:26.853+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipstore.db] brickCount=0 brickSize=851428b mappedMem=851443712b (storeSize=816b)
+2016-04-07 21:58:26.854+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2016-04-07 21:58:26.855+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.nodestore.db] brickCount=0 brickSize=192930b mappedMem=192937984b (storeSize=75b)
+2016-04-07 21:58:26.856+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=128b)
+2016-04-07 21:58:26.857+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2016-04-07 21:58:26.858+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [accessingdataneo4j.db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2016-04-07 21:58:27.036+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.initIndexes: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:58:27.046+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/nioneo_logical.log.1] version=4, lastTxId=66 (clean)
+2016-04-07 21:58:27.053+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: accessingdataneo4j.db/tm_tx_log.1
+2016-04-07 21:58:27.057+0000 INFO  [o.n.k.i.a.i.IndexingService]: IndexingService.start: index on :label[0](property[0]) is ONLINE
+2016-04-07 21:58:27.057+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2016-04-07 21:58:27.066+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [accessingdataneo4j.db/index/lucene.log.1] version=4, lastTxId=44 (clean)
+2016-04-07 21:58:27.070+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-04-07 21:58:27.075+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-04-07 21:58:27.077+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-04-07 21:58:27.078+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-04-07 21:58:27.078+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-04-07 21:58:27.079+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-04-07 21:58:27.079+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2016-04-07 21:58:27.079+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2016-04-07 21:58:27.079+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-04-07 21:58:27.108+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-04-07 21:58:27.150+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2016-04-07 21:58:27.154+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2016-04-07 22:06:47.946+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2016-04-07 22:06:47.947+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2016-04-07 22:06:47.948+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2016-04-07 22:06:47.975+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/index/lucene.log
+2016-04-07 22:06:47.979+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2016-04-07 22:06:47.993+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log accessingdataneo4j.db/nioneo_logical.log
+2016-04-07 22:06:47.996+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2016-04-07 22:06:48.002+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshiptypestore.db hit=0 miss=1 switches=0 ooe=0
+2016-04-07 22:06:48.004+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db.names hit=0 miss=6 switches=0 ooe=0
+2016-04-07 22:06:48.006+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.labeltokenstore.db hit=0 miss=3 switches=0 ooe=0
+2016-04-07 22:06:48.008+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.009+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index.keys hit=0 miss=8 switches=0 ooe=0
+2016-04-07 22:06:48.010+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.index hit=0 miss=4 switches=0 ooe=0
+2016-04-07 22:06:48.011+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.015+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.propertystore.db hit=34 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.017+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipstore.db hit=30 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.018+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.019+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.nodestore.db hit=45 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.020+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.schemastore.db hit=0 miss=4 switches=0 ooe=0
+2016-04-07 22:06:48.021+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2016-04-07 22:06:48.023+0000 INFO  [o.n.k.i.n.s.StoreFactory]: accessingdataneo4j.db/neostore hit=0 miss=17 switches=0 ooe=0
+2016-04-07 22:06:48.024+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2016-04-07 22:06:48.024+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2016-04-07 22:06:48.024+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---

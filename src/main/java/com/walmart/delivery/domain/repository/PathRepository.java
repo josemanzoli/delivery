@@ -12,7 +12,6 @@ import com.walmart.delivery.domain.Path;
  * Repository for Relationships between cities
  *  
  * @author josemanzoli
- * @since 2014-09-20
  * 
  */
 @Repository

@@ -36,7 +36,7 @@ REST API that receives a simple Map with directions between points and gives you
 ### Who do I talk to? ###
 
 * Repo owner or admin
-  zehdamoto
+  josemanzoli
 * Other community or team contact
   Well, it`s just me for now!
 

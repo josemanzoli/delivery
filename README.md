@@ -42,20 +42,42 @@ REST API that receives a simple Map with directions between points and gives you
 
 ### How can I use the Rest API? ###
 
-* Using an app plugin for Chrome called PostMan, follow the screenshots!
+* Using curl to Triangle Service
 
-* First, save the Map
-![saveMap](https://github.com/josemanzoli/delivery/blob/master/saveMap.png)
+* Curl example: curl -X POST -H "Content-Type: application/json" -H "Accept: application/json" -d '{"sideOne":2,"sideTwo":2,"sideThree":4}' http://localhost:8080/triangleService/classifyTriangle
+
+
+* Using curl to Delivery Service
+
+First, save the Map
 * Curl example:  curl -X PUT -H "Content-Type: application/json" -H "Accept: application/json" -d '{"stateName": "SP", "routes": [{"from" : "A", "to":"B", "distance":10.0},{"from" : "B", "to":"D", "distance":15.0},{"from" : "A", "to":"C", "distance":20.0},{"from" : "C", "to":"D", "distance":30.0},{"from" : "B", "to":"E", "distance":50.0},{"from" : "D", "to":"E", "distance":30.0}]}' http://localhost:8080/deliveryService/saveMap
 
 *Then see if the Map is saved
-![FindByState](https://github.com/josemanzoli/delivery/blob/master/findByState.png)
 * Curl example: curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/deliveryService/findByState?state=SP
 
 * and the last thing and most important, get your shortest path
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET 'http://localhost:8080/deliveryService/shortestPath?mapName=SP&sourceName=A&destinationName=D&price=2.5&autonomy=10.0' Using an app plugin for Chrome called PostMan, follow the screenshots!
+
+*If you want to clean up the database use this
+curl -i -H "Accept: application/json" -X DELETE http://localhost:8080/deliveryService/removeCities
+
+
+* Using an app plugin for Chrome called PostMan, follow the screenshots!
+
+* classify the Triangle
+![classifyTriangleService](https://github.com/josemanzoli/delivery/blob/master/classifyTriangleService.png)
+
+
+* Delivery services
+
+* First, save the Map
+![saveMap](https://github.com/josemanzoli/delivery/blob/master/saveMap.png)
+
+*Then see if the Map is saved
+![FindByState](https://github.com/josemanzoli/delivery/blob/master/findByState.png)
+
+* and the last thing and most important, get your shortest path
 ![getShortestPath](https://github.com/josemanzoli/delivery/blob/master/getShortestPath.png)
-curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET 'http://localhost:8080/deliveryService/shortestPath?mapName=SP&sourceName=A&destinationName=D&price=2.5&autonomy=10.0'
 
 *If you want to clean up the database use this
 ![removeCities](https://github.com/josemanzoli/delivery/blob/master/removeCities.png)
-curl -i -H "Accept: application/json" -X DELETE http://localhost:8080/deliveryService/removeCities

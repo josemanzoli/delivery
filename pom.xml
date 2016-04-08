@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.walmart</groupId>
+	<groupId>com.manzoli</groupId>
 	<artifactId>delivery</artifactId>
 	<version>1.00-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<description>Rest API that gives you the shortest path and gasoline costs based on information you give.</description>
-	<name>walmart-delivery</name>
+	<name>delivery</name>
 
 	<properties>
 		<org.springframework.data.version>3.2.0.RELEASE</org.springframework.data.version>
@@ -104,7 +104,7 @@
 					<configuration>
 						<!-- web.xml is not mandatory since JavaEE 5 -->
 						<failOnMissingWebXml>false</failOnMissingWebXml>
-						<warName>walmart-delivery</warName>
+						<warName>delivery</warName>
 					</configuration>
 				</plugin>
 				<plugin>
@@ -114,7 +114,7 @@
 					<configuration>
 						<instrumentation>
 							<excludes>
-								<exclude>com/walmart/delivery/**/*.class</exclude>
+								<exclude>com/manzoli/delivery/**/*.class</exclude>
 							</excludes>
 						</instrumentation>
 					</configuration>

@@ -42,7 +42,7 @@ REST API that receives a simple Map with directions between points and gives you
 
 ### How can I use the Rest API? ###
 
-* Using curl to Triangle Service
+#### Using curl to Triangle Service ####
 
 * Curl example: curl -X POST -H "Content-Type: application/json" -H "Accept: application/json" -d '{"sideOne":2,"sideTwo":2,"sideThree":4}' http://localhost:8080/triangleService/classifyTriangle
 
@@ -73,11 +73,11 @@ If you want to clean up the database use this
 * First, save the Map
 ![saveMap](https://github.com/josemanzoli/delivery/blob/master/saveMap.png)
 
-*Then see if the Map is saved
+* Then see if the Map is saved
 ![FindByState](https://github.com/josemanzoli/delivery/blob/master/findByState.png)
 
 * and the last thing and most important, get your shortest path
 ![getShortestPath](https://github.com/josemanzoli/delivery/blob/master/getShortestPath.png)
 
-*If you want to clean up the database use this
+* If you want to clean up the database use this
 ![removeCities](https://github.com/josemanzoli/delivery/blob/master/removeCities.png)

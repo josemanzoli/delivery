@@ -52,14 +52,14 @@ REST API that receives a simple Map with directions between points and gives you
 First, save the Map
 * Curl example:  curl -X PUT -H "Content-Type: application/json" -H "Accept: application/json" -d '{"stateName": "SP", "routes": [{"from" : "A", "to":"B", "distance":10.0},{"from" : "B", "to":"D", "distance":15.0},{"from" : "A", "to":"C", "distance":20.0},{"from" : "C", "to":"D", "distance":30.0},{"from" : "B", "to":"E", "distance":50.0},{"from" : "D", "to":"E", "distance":30.0}]}' http://localhost:8080/deliveryService/saveMap
 
-*Then see if the Map is saved
+Then see if the Map is saved
 * Curl example: curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/deliveryService/findByState?state=SP
 
-* and the last thing and most important, get your shortest path
-curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET 'http://localhost:8080/deliveryService/shortestPath?mapName=SP&sourceName=A&destinationName=D&price=2.5&autonomy=10.0' Using an app plugin for Chrome called PostMan, follow the screenshots!
+and the last thing and most important, get your shortest path
+* Curl example: curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET 'http://localhost:8080/deliveryService/shortestPath?mapName=SP&sourceName=A&destinationName=D&price=2.5&autonomy=10.0' Using an app plugin for Chrome called PostMan, follow the screenshots!
 
-*If you want to clean up the database use this
-curl -i -H "Accept: application/json" -X DELETE http://localhost:8080/deliveryService/removeCities
+If you want to clean up the database use this
+* Curl example: curl -i -H "Accept: application/json" -X DELETE http://localhost:8080/deliveryService/removeCities
 
 
 * Using an app plugin for Chrome called PostMan, follow the screenshots!
